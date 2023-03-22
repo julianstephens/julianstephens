@@ -8,6 +8,7 @@
 <!-- - 🌱 I’m currently learning **Golang** -->
 
 - 📫 How to reach me **julian@julianstephens.net**
+- 🖥️ Checkout my [website](https://julianstephens.net)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
